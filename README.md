@@ -10,6 +10,8 @@ Time spent: 8 hours spent in total
 
 https://glitch.com/edit/#!/unequaled-ahead-power?path=script.js%3A51%3A17
 
+https://unequaled-ahead-power.glitch.me/
+
 ## Required Functionality
 
 The following **required** functionality is complete:
