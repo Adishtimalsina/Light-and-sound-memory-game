@@ -6,7 +6,7 @@
 
 Submitted by: Adish Timalsina
 
-Time spent: 8 hours spent in total
+Time spent: 11 hours spent in total
 
 https://glitch.com/edit/#!/unequaled-ahead-power?path=script.js%3A51%3A17
 
@@ -42,18 +42,18 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![codePathIntern](https://user-images.githubusercontent.com/97929111/160266700-46ae34dd-b534-47fd-b981-0a158ecafb3f.gif)
+
+https://imgur.com/70aHhxz.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-w3school, https://pages.mtu.edu/~suits/notefreqs.html for frequencies and some help from stackoverflow.
+for this pre-work task, I took a help from the following website and resources 
+w3schools.com for color and https://pages.mtu.edu/~suits/notefreqs.html for sound frequencies. For timer which is 20 second, user have to guess the played button before time out and the other feature is user have three chances to guess. I took a help from stack overflow for these two features. 
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+My biggest challenge on this pre work task was set a timer and again timer had to reset after user guesses the right. For this feature I almost spent more than 4 hours. I had to spend a lot of time on this feature because I did not have enough knowledge to implement functions for this feature. so, I did search on stack overflow and W3schools.com for this. After some research I understand about some function that going to help for this feature such as setInterval and clearInterval. Also, it was little bit hard to make a function for time keep decreasing from 20 second to 0 s. For this feature I made a  function  countDown. I had to put a many different conditions for this function because the condition was not working, I did not give up and keep trying until I get success. On this function I also had to let user know that you lost a game because time is up. After completing this function, I tried to run and it was looking fine until I lost the game and restart again, when I restart the time start decreasing like a millisecond it took 2 second to get to 0 second from 20 second. I stuck on the same function almost one hour, trying to find a bug. The problem was on function playClueSequence(), I did not set time for 20 second. Another challenge was user can have three chances to guess otherwise user will lose the game. For this feature I had to add more logic on guess function so user can use multiple attempts before they lose the game, and user can see how many attempts left. For me on this pre work task debugging stressed me out but I also learn some debugging techniques.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
