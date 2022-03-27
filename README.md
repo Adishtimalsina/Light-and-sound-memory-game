@@ -1,5 +1,3 @@
-# Light-and-sound-memory-game
-
 # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
@@ -8,7 +6,7 @@ Submitted by: Adish Timalsina
 
 Time spent: 8 hours spent in total
 
-https://glitch.com/edit/#!/unequaled-ahead-power?path=script.js%3A51%3A17
+Link to project: (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
@@ -48,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-w3school, https://pages.mtu.edu/~suits/notefreqs.html for frequencies and some help from stackoverflow.
+[YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
@@ -68,7 +66,7 @@ w3school, https://pages.mtu.edu/~suits/notefreqs.html for frequencies and some h
 
 ## License
 
-    Copyright [Adish Timalsina]
+    Copyright [YOUR NAME]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
