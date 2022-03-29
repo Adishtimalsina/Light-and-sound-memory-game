@@ -56,10 +56,11 @@ My biggest challenge on this pre work task was set a timer and again timer had t
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing this prework assignment, I became more curious about web development. I did not have more knowledge about front-end development, while I work on this prework I enjoyed both front-end and back-end and I just feel like I want to learn more about this. I got basic knowledge about user interface from my android app development class at codepath which is still going on. I feel so easy creating user interface by using html and CSS and JavaScript . can we create a webapp only using these three (CSS, JavaScript, and html) ? if not what else we can use to make webapp more user-friendly and how can we make more interesting user interface. This might be because of I’m not pretty much familiar with JavaScript but I feel difficult working on function and checking them whether they are working properly or not so, I want to learn about how to write a function on efficient way and check them and I want to learn debugging techniques. 
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours to work on this project first of all I would make nicer user interface because the first thing is user interface when we open webpage or webapp. I would make it more colorful with photos on button rather than just button and I would add volume button so, user can maximize and minimize just by clicking on vl+ button and vl- button or slider volume button so, user can slide up for increase the volume and slide down for decrease the volume. I would also add a score button to keep track the user points when they click on correct button and when they click wrong button the score decreases by certain number. Also, I would add function that store the highest score of all time.
 
 
 
